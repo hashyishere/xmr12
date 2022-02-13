@@ -1,7 +1,7 @@
 from discord.ext import tasks
 import discord, requests
 
-TOKEN = "OTQyMzkwNDg2Mzk0NjE3OTE2.YgjziA.Y21QSw7agbTNxGw4EjhLcSiKXQo" #BOT ID
+TOKEN = "" #BOT ID
 INTERVAL = 10 # interval (in seconds) of update
 GUILD_IDS = [932424489986301992] #Discord Server ID
 
